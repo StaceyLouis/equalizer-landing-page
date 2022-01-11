@@ -1,12 +1,31 @@
-@media screen and(min-width: 375px) {
-    body{
-        background-color: blue;
-    }
+
 .component-container{ 
-    height: 23.5rem;
-    width: 25rem;
+    width: 21rem;
     box-shadow: none;
 }
 
+#title{
+    font-size: 1.5rem;
+}
+
+#description{
+    font-size: 1rem;
+    line-height: 1.3rem;
+}
     
+#annual {
+    margin-left: 4rem;
+}
+a{
+    font-size: 0.8rem;
+}
+.attribution { 
+    font-size: 11px;
+     text-align: center;
+  position: fixed;
+  bottom: 0;
+  font-size: 1rem;
+  }
+.attribution a { color: hsl(228, 45%, 44%);
+font-size: 1rem;
 }
