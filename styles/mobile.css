@@ -2,6 +2,7 @@
 .component-container{ 
     width: 21rem;
     box-shadow: none;
+    padding-bottom: 2rem;
 }
 
 #title{
