@@ -1,0 +1,9 @@
+@media screen and(min-width: 375px) {
+.component-container{ 
+    height: 23.5rem;
+    width: 25rem;
+    box-shadow: none;
+}
+
+    
+}

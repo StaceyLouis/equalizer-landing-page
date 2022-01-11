@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap');
+
+@media screen and (max-width: 1440px) {
 body{
     width: 100vw;
     height: 100vh;
@@ -133,4 +135,5 @@ a:hover{
     }
   .attribution a { color: hsl(228, 45%, 44%);
  font-size: 1.5rem;
+}
 }
