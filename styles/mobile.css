@@ -1,4 +1,7 @@
 @media screen and(min-width: 375px) {
+    body{
+        background-color: blue;
+    }
 .component-container{ 
     height: 23.5rem;
     width: 25rem;
